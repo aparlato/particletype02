@@ -1,0 +1,47 @@
+.black {
+  background-color: black;
+}
+
+a {
+  font-family: Helvetica;
+  font-weight: 100;
+  text-decoration: underline;
+  opacity: 0.5;
+}
+
+h4 {
+  color: white;
+  font-size:12px;
+  font-family: Helvetica;
+  font-weight: 100;
+  padding-top: 50px;
+  padding-left: 95px;
+  opacity: 0.5;
+}
+
+.navbar .nav > li > a {
+  color: white;
+  background-color: transparent;
+}
+
+.navbar .nav > li > a:hover {
+  text-decoration: underline;
+  background-color: transparent;
+  color: #FF00FF;
+}
+
+.navbar-header > a {
+  color: white;
+  font-family: Helvetica;
+  font-weight: 100;
+  text-decoration: underline;
+  opacity: 0.5;
+}
+
+.navbar-header > a:hover {
+  color: #FF00FF;
+}
+
+.italic {
+  font-style: italic;
+}
